@@ -11,7 +11,7 @@ Follow these steps to set up Pyraria on your system:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/meetshah1205/Terraria-in-python
+    git clone https://github.com/meetshah1205/Pyrarria
     cd Terraria-in-python
     ```
 
