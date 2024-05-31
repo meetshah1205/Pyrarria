@@ -19,7 +19,7 @@ Before you embark on your Pyrarian odyssey, ensure you have the following prereq
    - Visit the official Pyraria repository on GitHub: https://github.com/topics/terraria?l=python
    - Clone the repository using Git:
      ```bash
-     git clone [https://github.com/meetshah1205/Pyraria](https://github.com/meetshah1205/Pyraria)
+     git clone https://github.com/meetshah1205/Pyraria
      cd Pyraria
      ```
 
